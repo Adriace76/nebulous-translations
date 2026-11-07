@@ -68,8 +68,8 @@
     <string name="Difficulty_">"Dificultad:"</string>
     <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
 
-    <string name="Max_Players">"Jugadores máximos"</string>
-    <string name="Min_Players">"Jugadores mínimos"</string>
+    <string name="Max_Players">"Máximo de jugadores"</string>
+    <string name="Min_Players">"Mínimo de jugadores"</string>
 
     <string name="OK">"VALE"</string>
     <string name="CANCEL">"CANCELAR"</string>
@@ -147,8 +147,8 @@
 
 
     <string name="Dot_Nibbler">"Roedor de puntos"</string>
-    <string name="Dot_Muncher">"Absorbe puntos"</string>
-    <string name="Dot_Eater">"Come puntos"</string>
+    <string name="Dot_Muncher">"Masticador de puntos"</string>
+    <string name="Dot_Eater">"Comedor de puntos"</string>
     <string name="Dot_Gulper">"Tragón de puntos"</string>
     <string name="Dot_Gobbler">"Engulle puntos"</string>
     <string name="Dot_Devourer">"Devorador de puntos"</string>
@@ -488,7 +488,7 @@
 
     <string name="Validating">"Validando…"</string>
 
-    <string name="Randomize">"Aleatorio"</string>
+    <string name="Randomize">"Aleatorizar"</string>
 
     <string name="Harassment">"Acoso"</string>
 
@@ -744,7 +744,7 @@
     <string name="FILTER">"FILTRAR"</string>
     <string name="List_Count_">"Lista:"</string>
     <string name="Download_Skins">"Descargar skins"</string>
-    <string name="ARENA_HISTORY">"HISTORIAL ARENA"</string>
+    <string name="ARENA_HISTORY">"HISTORIAL DE ARENA"</string>
     <string name="WIN">"VICTORIA"</string>
     <string name="LOSS">"DERROTA"</string>
     <string name="Other_players_can_not_see_your_skin_">"Los demás jugadores no pueden ver tu skin "</string>
@@ -766,7 +766,7 @@
 
     <string name="BANNED_PLAYERS">"JUGADORES BANEADOS"</string>
     <string name="MAIL">"CORREO"</string>
-    <string name="WRITE_MAIL">"ESCRIBIR MENSAJE"</string>
+    <string name="WRITE_MAIL">"ESCRIBIR CORREO"</string>
     <string name="Days">"Días"</string>
     <string name="Message">"Mensaje:"</string>
     <string name="Subject">"Asunto:"</string>
@@ -789,7 +789,7 @@
     <string name="Clan_Hero">"Héroe del Clan"</string>
     <string name="Win_1000_Clan_Wars">"Gana 1.000 guerras de clanes"</string>
     <string name="NAME_COLOR">"COLOR DEL NOMBRE"</string>
-    <string name="name_color_instructions">"Selecciona los caracteres que deseas cambiar y luego selecciona el color para cambiarlos."</string>
+    <string name="name_color_instructions">"Selecciona los caracteres que deseas modificar y luego selecciona el color para cambiarlos."</string>
     <string name="Cannot_change_this_character_">"No se puede cambiar este carácter"</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSIS ZOMBI"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Sobrevive a un Apocalipsis Zombi"</string>
@@ -915,7 +915,7 @@
     <string name="x2_Clan_XP_7_Days">"2x EXP Clan 7 días"</string>
     <string name="RECEIVED">"RECIBIDO"</string>
     <string name="SENT">"ENVIADO"</string>
-    <string name="Enable_Invites">"Activar Invitaciones"</string>
+    <string name="Enable_Invites">"Habilitar Invitaciones"</string>
     <string name="Game_Invitation">"Invitación a un Juego"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s te ha invitado a unirse a su juego!"</string>
     <string name="Invitation_declined_">"¡Invitación rechazada!"</string>
@@ -972,7 +972,7 @@ Si no cumples con alguna de estas reglas, tu cuenta podría ser suspendida.\n
 Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciarlo a un Moderador.
     </string>
     <string name="Blob_Chat_Bubbles">Burbuja de chat</string>
-    <string name="CHRISTMAS_ADVENT_SKINS">ADVIENTO NAVIDEÑO</string>
+    <string name="CHRISTMAS_ADVENT_SKINS">SKINS DE ADVIENTO NAVIDEÑO</string>
     <string name="You_cannot_open_this_present_yet_">¡No puedes abrir este regalo todavía!</string>
     <string name="Open_Present">Abrir Regalo</string>
     <string name="OPEN">ABRIR</string>
@@ -991,7 +991,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Saved_">¡Guardado!</string>
     <string name="Name_Opacity_">Opacidad del Nombre:</string>
     <string name="SET_PROFILE_PIC">ESTABLECER FOTO DE PERFIL</string>
-    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">¡ACEPTAR TODAS LAS SOLICITUDES DE AMIGOS!</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">¡ACEPTAR TODAS LAS INVITACIONES DE AMIGOS!</string>
     <string name="App_Perf_Stats">Estadísticas de Rendimiento de la App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra"> 1vs1 Ultra</string>
@@ -1137,7 +1137,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Halo_Animations">Animación del Halo</string>
     <string name="Trick_Notifications">Notificación de Tricks</string>
     <string name="Channel">Canal</string>
-    <string name="Choose_Text_Size">Selecciona Tamaño de Texto</string>
+    <string name="Choose_Text_Size">Elige el Tamaño de Texto</string>
     <string name="LEVEL_COLOR">COLOR DE NIVEL</string>
     <string name="level_color_instructions" translatable="true" tools:ignore="Untranslatable"> Selecciona el color para tu nivel</string>
     <string name="INITIATE">INICIADO</string>
@@ -1284,7 +1284,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="HERO">HÉROE</string>
     <string name="CHAMPION">CAMPEÓN</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">¡No puedes ganar EXP o plasma en modo sandbox!</string>
-    <string name="DASH">LÁNZATE</string>
+    <string name="DASH">CORRE</string>
     <string name="setting_changed">Ajustes actualizados. Es posible que deba volver a conectarse al servidor para que surta efecto.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realiza 10,000 trucos en MODO TRICKS.</string>
     <string name="Tricky">Tricky</string>
@@ -1370,7 +1370,7 @@ Comandos:
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SEPARARSE 64x</string>
-    <string name="Missing_Permissions">Permisos Pendientes</string>
+    <string name="Missing_Permissions">Permisos Faltantes</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
     <string name="delete_prompt">¿Estás seguro de que deseas eliminar tu cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
 
